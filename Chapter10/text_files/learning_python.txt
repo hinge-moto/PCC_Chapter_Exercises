@@ -1,0 +1,5 @@
+In Python you can import a text file and work with its contents.
+In Python you can model real world objects through classes.
+In Python you can create machine learning algorithms.
+In Python you can store as much date as you desire!
+In Python you can create games and puzzles using your skills.
